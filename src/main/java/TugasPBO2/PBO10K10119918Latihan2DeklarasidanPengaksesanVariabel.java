@@ -7,9 +7,14 @@ package TugasPBO2;
 
 /**
  *
- * @author andreas
+ * @author
+ * NAMA     : Andreas Suryadi
+ * KELAS    : PBO10K
+ * NIM      : 10119918
+ * Deskripsi Program : Program ini berisi program untuk pengaksesan variabel untuk ditampilkan
+ * 
  */
-public class Project2_PBO {
+public class PBO10K10119918Latihan2DeklarasidanPengaksesanVariabel {
 
     /**
      * @param args the command line arguments
